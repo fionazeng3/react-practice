@@ -1,0 +1,7 @@
+[submodule "image-slider"]
+  path=image-slider
+  url=https://github.com/fionazeng3/react-practice
+
+[submodule "sudoku"]
+  path=sudoku
+  url=https://github.com/fionazeng3/react-practice
